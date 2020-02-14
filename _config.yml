@@ -1,14 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+title:              Bad Cloud Shape
+email:              Jasont.davis1983@gmail.com
+description:        Passion meets projects - showing my love of video games and the cloud
+author:             Jason Davis
+baseurl:            "/badcloudshape.github.io"
+url:                "https://badcloudshape.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
+twitter_username:   Silentbob923
+github_username:    badcloudshape
 facebook_username:  StartBootstrap
+linkedin_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
